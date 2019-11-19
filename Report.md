@@ -4,13 +4,13 @@ This report accounts for the videogames sales and ratings in North America, Euro
 
 GRAPH 1 reports the total videogames sales per geographic area as a function of the year. The total sales remain constant during the first 15 years. From 2000 until 2016 the sales data follow a Gaussian curve, where there is a drastic increase of sales especially in North America and Europe until around 2008/2009, followed by a steep decrease. 
 
-<center><img src= "https://raw.githubusercontent.com/dimaggiofrancesco/DATA_ANALYSIS-Videogames_sales_and_ratings/master/Figure_2.png" width="225" height="150"> </center>
+<center><img src= "https://raw.githubusercontent.com/dimaggiofrancesco/DATA_ANALYSIS-Videogames_sales_and_ratings/master/Figure_2.png" width="700" height="400"> </center>
 
 GRAPH 2A shows the global sales trend of the 6 publishers with the highest sales during the period 1980-2016. *Nintendo* is the publisher with highest sales with around 1800 million of games sold, followed by *Electronic Arts* with just over 1000 million of videogames sold. *Activision*, *Sony Computer Entertainment* and *Ubisoft* follow in 3rd, 4th and 5th position respectively. 
 
-<img src= "https://raw.githubusercontent.com/dimaggiofrancesco/DATA_ANALYSIS-Videogames_sales_and_ratings/master/Figure_6.png" width="225" height="150" /> 
+<img src= "https://raw.githubusercontent.com/dimaggiofrancesco/DATA_ANALYSIS-Videogames_sales_and_ratings/master/Figure_6.png" width="700" height="400" /> 
 
-<img src= "https://raw.githubusercontent.com/dimaggiofrancesco/DATA_ANALYSIS-Videogames_sales_and_ratings/master/Figure_7.png" width="225" height="150" />
+<img src= "https://raw.githubusercontent.com/dimaggiofrancesco/DATA_ANALYSIS-Videogames_sales_and_ratings/master/Figure_7.png" width="700" height="400" />
 
 The trend of the global sales per publisher as a function of the year (grouped in 5 years) is shown in GRAPH 2B. *Nintendo* has always been the publisher with the highest sales except in the five years that goes from 2000 to 2005 where *Electronic Arts* sold slightly more games. 
 
